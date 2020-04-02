@@ -25,7 +25,9 @@ const two = 2
 }
 
 var funkyFunction = function() {
+  var = "FUNKY";
   return function() {
+    
     return "FUNKY!"
   }
 }
